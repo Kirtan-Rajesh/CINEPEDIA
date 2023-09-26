@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Content-Based-Movie-Recommender-System-with-sentiment-analysis-using-AJAX
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
@@ -67,3 +68,7 @@ More about Cosine Similarity : [Understanding the Math behind Cosine Similarity]
 4. [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
 5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
 
+=======
+# CINEPEDIA
+Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
+>>>>>>> 30fdb1eb4054d9984a2ca3b603c7f59581b8973d
